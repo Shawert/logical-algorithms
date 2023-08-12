@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra_algorithm", "Dijkstra_algorithm.csproj", "{E91294D6-EB84-4747-8FE4-128BA09459D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bellman-Ford-lgorithm", "..\Bellman-Ford-lgorithm\Bellman-Ford-lgorithm.csproj", "{4883BC85-7A38-4602-BA49-0AA084E19788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91294D6-EB84-4747-8FE4-128BA09459D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91294D6-EB84-4747-8FE4-128BA09459D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91294D6-EB84-4747-8FE4-128BA09459D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91294D6-EB84-4747-8FE4-128BA09459D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4883BC85-7A38-4602-BA49-0AA084E19788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4883BC85-7A38-4602-BA49-0AA084E19788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4883BC85-7A38-4602-BA49-0AA084E19788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4883BC85-7A38-4602-BA49-0AA084E19788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B604E3-41EC-4E7E-B606-E06BD0143AF3}
+	EndGlobalSection
+EndGlobal

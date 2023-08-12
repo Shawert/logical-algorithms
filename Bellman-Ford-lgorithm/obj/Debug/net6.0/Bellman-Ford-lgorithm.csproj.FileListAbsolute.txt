@@ -1,0 +1,15 @@
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\bin\Debug\net6.0\Bellman-Ford-lgorithm.exe
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\bin\Debug\net6.0\Bellman-Ford-lgorithm.deps.json
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\bin\Debug\net6.0\Bellman-Ford-lgorithm.runtimeconfig.json
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\bin\Debug\net6.0\Bellman-Ford-lgorithm.dll
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\bin\Debug\net6.0\Bellman-Ford-lgorithm.pdb
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.csproj.AssemblyReference.cache
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.AssemblyInfoInputs.cache
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.AssemblyInfo.cs
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.csproj.CoreCompileInputs.cache
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.dll
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\refint\Bellman-Ford-lgorithm.dll
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.pdb
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\Bellman-Ford-lgorithm.genruntimeconfig.cache
+D:\CSharpCode\Blazor\Bellman-Ford-lgorithm\obj\Debug\net6.0\ref\Bellman-Ford-lgorithm.dll

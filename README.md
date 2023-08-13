@@ -1,5 +1,7 @@
 # some-algorithm
 This repository contains some important algorithms
+
+
 1)The Bellman-Ford algorithm is a graph search algorithm used to find the shortest paths from a single source vertex to all other vertices in a weighted graph, even if the graph contains negative weight edges. It's a dynamic programming-based algorithm that iteratively relaxes the edges in the graph to progressively find shorter paths.
 
 Here's how the Bellman-Ford algorithm works:
